@@ -4,8 +4,7 @@ Features: ESP & AutoGenerator
 
 * How to use
 
-Please after going on a Generator and Interact with him dont make the generator
-Just wait until the AutoGenerator Starts
+Please after going on a Generator and Interact with him dont make the generator, just wait until the AutoGenerator Starts
 
 * Script Loadstring ⬇️
 
